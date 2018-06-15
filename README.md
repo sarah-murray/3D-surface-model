@@ -1,6 +1,6 @@
 # 3D-surface-model
 Plot surfaces in 3D and enable slicing along the x, y, and z axes.
 
-Model takes in 3 .txt files contining z values for each cell and plots the data in an interactive figure.
+Model takes in 3 .txt files contining elevation values and plots the data in an interactive figure. Slider bars allow the user to define maximum and minimum values for the model to be cut along any of its 3 axes.
 
 ![Model UML](https://github.com/sarah-murray/3D-surface-model/blob/master/UML.png)
